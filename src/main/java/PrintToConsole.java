@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class PrintToConsole {
-    public static void testFindAny() {
+    public static void printConsole() {
         System.out.println("test0");
         System.out.println("test1");
         System.out.println("test2");
@@ -37,7 +37,7 @@ public class PrintToConsole {
 
 
     public static void main(String args[]){
-        testFindAny();
+        printConsole();
     }
 
 }
